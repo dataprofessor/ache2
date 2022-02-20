@@ -21,7 +21,7 @@ st.info('Alzheimer’s disease (AD) is a chronic neurodegenerative disease which
 
 st.markdown('# Introduction')
 
-with st.expander():
+with st.expander('Click to expand'):
   st.markdown('''
   Neurodegenerative diseases is caused by the progressive loss of neural cells thereby leading to nervous system dysfunction (Beal, 1995; Kuca et al., 2016). In particular, Alzheimer’s disease (AD) is a debilitating illness that is expected to triple by the year 2050 (Brookmeyer et al., 2007). AD is characterized by gradual cognitive impairment, memory loss and decline in speech, behavioral abnormality and eventually death. The pathological changes in AD are mainly attributed to the dramatic loss of neurons in many areas of the central nervous system accompanied by a great reduction in the levels of neurotransmitters. Acetylcholine (ACh) is a neurotransmitter possessing important cognitive and muscular functions. Particularly, in the peripheral nervous system, ACh is found at the neuromuscular junction where it is involved in muscle contraction while in the central nervous system, it is involved in cognitive functions such as thought, learning and memory.
 
