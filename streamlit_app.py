@@ -10,4 +10,4 @@ from PIL import Image
 
 st.markdown('# 💊 AChEpred')
 st.info('Prediction of Acetylcholinesterase inhibitors and non-inhibitors')
-st.markdown('[Link to Paper](https://peerj.com/articles/2322/)')
+st.markdown('- [**Link to Paper**](https://peerj.com/articles/2322/)')
